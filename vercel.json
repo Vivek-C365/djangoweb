@@ -1,14 +1,14 @@
 
 {
     "builds": [{
-        "src": "djangoauthapi1/wsgi.py",
+        "src": "djangoauthapi1/djangoauthapi1/wsgi.py",
         "use": "@vercel/python",
-        "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
+        "config": { "maxLambdaSize": "15mb", "runtime": "python3.10" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "djangoauthapi1/wsgi.py"
+            "dest": "djangoauthapi1/djangoauthapi1/wsgi.py"
         }
     ]
 }
