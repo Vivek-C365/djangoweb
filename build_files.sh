@@ -1,3 +1,3 @@
 echo "BUILD START"
-python3.12 -m pip install requiremnets.txt
+python3.10 -m pip install requiremnets.txt
 encho "BUILD END"
