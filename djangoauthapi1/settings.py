@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-_zk=9yl=ul!po@_z-)wq&x4=&!(ons2(pogyu52+f7f37v3j$y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', '127.0.0.1' , '.now.sh' , 'djangoweb-cs87k81t6-viveks-projects-20f1e9df.vercel.app']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -80,12 +80,12 @@ WSGI_APPLICATION = 'djangoauthapi1.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 
 # JWT Configuration
 REST_FRAMEWORK = {
