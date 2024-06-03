@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03327482.css",
+    "main.js": "/static/js/main.1da539c6.js",
+    "static/js/787.33fd910b.chunk.js": "/static/js/787.33fd910b.chunk.js",
+    "static/media/CertScope Trainings.png": "/static/media/CertScope Trainings.af112429261f6adf0ce3.png",
+    "static/media/solution_mindset.png": "/static/media/solution_mindset.6b7cc3e642715b2d20e3.png",
+    "static/media/interview.png": "/static/media/interview.7504a27db17e9b3f893e.png",
+    "static/media/teaching.png": "/static/media/teaching.4cab7dc26d022dc24c14.png",
+    "static/media/project_training.png": "/static/media/project_training.2329a4d76498473ea8ce.png",
+    "static/media/DevOps.png": "/static/media/DevOps.a12312d7416b59c306d3.png",
+    "static/media/Big_data.png": "/static/media/Big_data.597b79478ca47cc0a345.png",
+    "static/media/data_science.png": "/static/media/data_science.460c6009f01a664390e8.png",
+    "static/media/Digital_market.png": "/static/media/Digital_market.640b21f187f6cffbb01c.png",
+    "static/media/svgexport-20.png": "/static/media/svgexport-20.6160cdb73c46aeb1bec0.png",
+    "static/media/Scrum.png": "/static/media/Scrum.c500a290973a46df5ced.png",
+    "static/media/svgexport-19.png": "/static/media/svgexport-19.7230ba7e5daf8496785c.png",
+    "static/media/Resources.png": "/static/media/Resources.61ac91c923e634cb25dd.png",
+    "static/media/IT.png": "/static/media/IT.7f7dbe7deb8eb3411b04.png",
+    "static/media/Banner.png": "/static/media/Banner.cd22d872a1a92e00ade2.png",
+    "static/media/ISO.png": "/static/media/ISO.3b39ad508ba20feec729.png",
+    "static/media/atc-gov.png": "/static/media/atc-gov.043364d5ff480ba6fe6a.png",
+    "static/media/PMP_Certification _ CertScope.svg": "/static/media/PMP_Certification _ CertScope.daecb52220961820ce074cb28c8b6e4c.svg",
+    "index.html": "/index.html",
+    "static/media/profile.svg": "/static/media/profile.9145571b8b29fe4ba6bb2ed518c83700.svg",
+    "static/media/gray_tick.svg": "/static/media/gray_tick.b8f0a3c1b008781b33e13c34e36f3260.svg",
+    "static/media/DELIVERY_tick.svg": "/static/media/DELIVERY_tick.da246b91d6813cc6285ca44b812a3a00.svg",
+    "static/media/search.svg": "/static/media/search.f41bb49332955587e77aa1d64dfca1bc.svg",
+    "static/media/outcome_arrow.svg": "/static/media/outcome_arrow.6a2fe2d7b91b2bb87e2b1f60b2305951.svg",
+    "main.03327482.css.map": "/static/css/main.03327482.css.map",
+    "main.1da539c6.js.map": "/static/js/main.1da539c6.js.map",
+    "787.33fd910b.chunk.js.map": "/static/js/787.33fd910b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03327482.css",
+    "static/js/main.1da539c6.js"
+  ]
+}
