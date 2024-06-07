@@ -19,7 +19,7 @@ python manage.py runserver
 
 Now you can access your application at http://localhost:8000/
 
-
+test
 ```
 
 #### There is a File "DjangoAuthAPI.postman_collection" which has Postman Collection You can import this file in your postman to test this API
