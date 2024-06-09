@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03327482.css",
-    "main.js": "/static/js/main.af2a4427.js",
+    "main.js": "/static/js/main.3f39fc36.js",
     "static/js/787.33fd910b.chunk.js": "/static/js/787.33fd910b.chunk.js",
     "static/media/CertScope Trainings.png": "/static/media/CertScope Trainings.af112429261f6adf0ce3.png",
     "static/media/solution_mindset.png": "/static/media/solution_mindset.6b7cc3e642715b2d20e3.png",
@@ -28,11 +28,11 @@
     "static/media/search.svg": "/static/media/search.f41bb49332955587e77aa1d64dfca1bc.svg",
     "static/media/outcome_arrow.svg": "/static/media/outcome_arrow.6a2fe2d7b91b2bb87e2b1f60b2305951.svg",
     "main.03327482.css.map": "/static/css/main.03327482.css.map",
-    "main.af2a4427.js.map": "/static/js/main.af2a4427.js.map",
+    "main.3f39fc36.js.map": "/static/js/main.3f39fc36.js.map",
     "787.33fd910b.chunk.js.map": "/static/js/787.33fd910b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03327482.css",
-    "static/js/main.af2a4427.js"
+    "static/js/main.3f39fc36.js"
   ]
 }
